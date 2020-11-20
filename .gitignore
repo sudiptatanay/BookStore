@@ -3,3 +3,5 @@
 ################################################################################
 
 /WebgentleBookStore/WebgentleBookStore/obj
+/WebgentleBookStore/WebgentleBookStore/bin/Debug/netcoreapp3.1
+/WebgentleBookStore/WebgentleBookStore/wwwroot/lib
